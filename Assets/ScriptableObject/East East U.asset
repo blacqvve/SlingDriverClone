@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0e7769141c82f54295f5aedc2259171, type: 3}
+  m_Name: East East U
+  m_EditorClassIdentifier: 
+  chunkSize: {x: 80, y: 0, z: 80}
+  levelChunks:
+  - {fileID: 7823553441050349757, guid: 1c4cf9bc8324d17438cf9de51d37a1ac, type: 3}
+  entryDirection: 1
+  exitDirection: 1
+  trackType: 1
